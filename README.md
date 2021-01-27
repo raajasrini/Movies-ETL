@@ -63,4 +63,4 @@
 
 * The data from the MovieLens rating CSV file is added to the ratings table in the SQL database, as determined by the [ratings_query.png](https://github.com/raajasrini/Movies-ETL/blob/main/Resources/rating_query.png).
 
-* The [https://github.com/raajasrini/Movies-ETL/blob/main/Resources/elapsed time.png](time_elapsed) to add the data to the database is displayed in the ETL_create_database.ipynb file.
+* The [time_elapsed](https://github.com/raajasrini/Movies-ETL/blob/main/Resources/elapsed time.png) to add the data to the database is displayed in the ETL_create_database.ipynb file.
