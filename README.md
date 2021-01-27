@@ -59,8 +59,8 @@
 
 ### Deliverable 4: Create the Movie Database
 
-* The data from the movies_df DataFrame replaces the current data in the movies table in the SQL database, as determined by the [movies_query.png](https://github.com/raajasrini/Movies-ETL/blob/main/Resources/movies-query.png).
+* The data from the movies_df DataFrame replaces the current data in the movies table in the SQL database, as determined by the [movies_query.png](https://github.com/raajasrini/Movies-ETL/blob/main/Resources/movies_query.png).
 
 * The data from the MovieLens rating CSV file is added to the ratings table in the SQL database, as determined by the [ratings_query.png](https://github.com/raajasrini/Movies-ETL/blob/main/Resources/rating_query.png).
 
-* The [time_elapsed](https://github.com/raajasrini/Movies-ETL/blob/main/Resources/elapsed time.png) to add the data to the database is displayed in the ETL_create_database.ipynb file.
+* The [time_elapsed](https://github.com/raajasrini/Movies-ETL/blob/main/Resources/time_elapsed.png) to add the data to the database is displayed in the ETL_create_database.ipynb file.
